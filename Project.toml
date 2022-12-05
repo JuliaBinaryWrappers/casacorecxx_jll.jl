@@ -1,6 +1,6 @@
 name = "casacorecxx_jll"
 uuid = "689e2960-4160-5310-ae7f-2d2095288874"
-version = "0.2.1+1"
+version = "0.2.1+2"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
