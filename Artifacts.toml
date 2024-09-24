@@ -1,39 +1,57 @@
 [[casacorecxx]]
 arch = "aarch64"
-git-tree-sha1 = "422ec199ee8ce8884fe8fc8a3f94a02be1d546ac"
+git-tree-sha1 = "4fdad19b74765de3a59dde7985a2dd7ebaa8ba86"
 julia_version = "1.10.0"
 os = "macos"
 
     [[casacorecxx.download]]
-    sha256 = "6055e8174858331cf5f1c5155f499bcf30f27f9508b50eed890f3e0e1b9d325b"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "0669103deea3ba01f9832c7a4a9358930c63c2f87a7cc670e627e4a98e2ac874"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[casacorecxx]]
 arch = "aarch64"
-git-tree-sha1 = "e9c075a04ee89bee0a90528766b0ea43f134b543"
+git-tree-sha1 = "d55484b198ea241a4886c561cb050015902a79d9"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[casacorecxx.download]]
+    sha256 = "e85f2851db254dcd505fb02f287ce9a1b196ea9f402900e990c8b4bd4d7f96ad"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[casacorecxx]]
+arch = "aarch64"
+git-tree-sha1 = "982f03fa90a7029ea7a3e6c2531ba834cb14ff80"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[casacorecxx.download]]
+    sha256 = "b197946dafa70db0f0d8059cdd4fc74fa98668013790163c14f9de4d56f75770"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[casacorecxx]]
+arch = "aarch64"
+git-tree-sha1 = "cd4eb4973dfb3366273e37c06e6f77c7290896f6"
 julia_version = "1.7.0"
 os = "macos"
 
     [[casacorecxx.download]]
-    sha256 = "567b43071a2416be61cee68710f0f02484b75e625a5e727489a079942b61c266"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "6f0fe4ceb6dc42435a7f183dfeffcd341d7eeccabf73950836f74bdf43a84de1"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "aarch64"
-git-tree-sha1 = "d3f5d8b7e297551a99c7b8a1ea30a2a720a78629"
-julia_version = "1.8.0"
+git-tree-sha1 = "490d1d0d380ad4a958df5295343375e36c5d9127"
+julia_version = "1.8.2"
 os = "macos"
 
     [[casacorecxx.download]]
-    sha256 = "024f451435d888ac032aeb2afdc63aa451ffaa395ed06abe9659716d3b4b80a0"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.aarch64-apple-darwin-julia_version+1.8.0.tar.gz"
+    sha256 = "7f3fd802ae3dd36014e8d763abb51ac3939f1c59b1552650a9845f32700ea8b6"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "aarch64"
-git-tree-sha1 = "0c57bd8480790ff40ca6888f8a689d2e3d0ecc12"
+git-tree-sha1 = "b2ecf287a6f45bf14cf2ae69a4687670aee88012"
 julia_version = "1.9.0"
 os = "macos"
 
     [[casacorecxx.download]]
-    sha256 = "6fd8b6551fdc195244ab7b7a89976a77da0a577afdc66e7e9d7875223f0f6b0b"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "79c956f6dd82ba94d38fb0b8e757cdc47394f03c5b1c5dbac6970aec564b695a"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[casacorecxx]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -44,7 +62,29 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "d9d8c72a6383036a7becfd1352cfae70b1362985eb8c9a7864b2c4558c435965"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[casacorecxx]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ef13930141d5dfeb46cbee2afae7288cd8abbff1"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "30ed612f4a60c3f09b2e8a2995534cad8e30ff9bbe991e7e37cb5159f07338d9"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[casacorecxx]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ddd6162fdf2b75fc52a56374653ba090d71cd3de"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "8edc5f85c7977a25b5e9118b8d02ea4a47f8bc2edb96bb9a2fa4b657735997a5"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[casacorecxx]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -55,18 +95,18 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "b0443874c7e0fa504eaa9dacf8a79a7540e5882efabaa671dafe2bfbb3b72a9c"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
 git-tree-sha1 = "3d24d3dde30e3aa7de8b877e398fbefa06fb6261"
-julia_version = "1.8.0"
+julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "cb8fb821436c4183688b7fbe5e7ea5aa9276a226bbcf48e0009612b62072a198"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -77,7 +117,7 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "17e7fd255a172a0df8ee1f94e9b2280a79b28b2e254099a4c99856fe5ac2629f"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[casacorecxx]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -88,7 +128,29 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "9dc97495eace3e80114c8c9c386102d8fb453e3e90f3333e4ccf7faa68a619ba"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[casacorecxx]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b29a79bbf963da17f3b80bc591a02b7262ca29b5"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "8749c5d5a1042fe94fed5e36268932fac8057c3814ef88d74576b8bbe0eaddc4"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[casacorecxx]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0f1f9dfc6af923a64803402502664ba6786f163c"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "7fa5c840ea97f37dffdb9031b36efee533555a347ae86b4782868a156d70c9bf"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[casacorecxx]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -99,18 +161,18 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "8e88b0d5f4cd097f99e7eda2a3c3b597f4d5f805be3ba26a6fced87780de0e2c"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "4eb1560fbfeba64c2bc142c8b23ac3c6571166e6"
-julia_version = "1.8.0"
+julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "31fd6eac39e8c5fb356b63d92c31c704a8390b17f8e4e05e9e14a045f9b8e4cf"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -121,7 +183,7 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "1b3075cb5e919917bc692bb069145b6dce384190b37bb7f772a956a80c26d91f"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[casacorecxx]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -133,19 +195,19 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "0b3b9ee6f256b922e98771490e758dfdadb6f50d4f0923b97fd847af75e3a52d"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
 git-tree-sha1 = "644ef07159b6ae0b041edd23b57ba6d1390c6b85"
-julia_version = "1.8.0"
+julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "3929c46754feceadaaf25b2193fe15d376e1662f492322bd4d80d9b79bae7b92"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -157,19 +219,19 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "e990274d45c3223edbe167af9e6a8cc252ff695161772a2e9ccfb0c00d95329d"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "a01e5f08936ecc418ed40d66837b06333ca2669a"
-julia_version = "1.8.0"
+julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "6e1ab8da712190989293166892ca41412f9257baf80703bf45d5b1cf96ac1b2b"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -181,19 +243,19 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "8e7b9e30ec02f55fa4b49ec265f6659fa7cc42071139485992dc6ee3a388378c"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
 git-tree-sha1 = "111264a82fdcdb57f1fdd4bc8e838c1d3e8f445c"
-julia_version = "1.8.0"
+julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "fc69aa07b584228a61b943295811fb22a6569f93723a6e2f391b68d23760f612"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -205,19 +267,19 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "0d3e1def447190f649dc36343613c4fda7e739826354d0c3a56c9a317258f091"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "a325f64d705e709a95de0e0e92dc88322490bdfc"
-julia_version = "1.8.0"
+julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "35bf6e5834ff609d684ae390b7033bf6e95df9a109afcc0fbd4928c8b0c144cd"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -228,7 +290,29 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "0c8854c1cdffe57a4ab6b2a3ddb94f8ca294cdf07d2daa5dde0cd60df2089725"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[casacorecxx]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6ce185faaef2da8e83bc1ae109bc7446f7a0856e"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "ed7565f8927efd5d1196d649fc20a5aa8e542822275d6f3523b28b3bf08a9e96"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[casacorecxx]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b2f0939c7acded8f56d388b44fb3f579efd2a332"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "25089dff78e07c24127d94da52009724b8e56f12e62ea41d8d640680ccc00da6"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[casacorecxx]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -239,18 +323,18 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "78372c40b595e2fe6234886e0cdc6592796496c915ab34be761e27d6de41696b"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "i686"
 cxxstring_abi = "cxx03"
 git-tree-sha1 = "3d15bc47ed6ea6ce12b56f5c1da4d72e72d3fcb9"
-julia_version = "1.8.0"
+julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "a5703055b9574a613186c253a66d78a0e72c08ea36dda94752471b66b80f53c5"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -261,7 +345,7 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "58f51a7ca5e70877333175555719fa1fcd533af80fa979e0f8e105d44368824a"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[casacorecxx]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -272,7 +356,29 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "093bd454e943189ab8de914f7b709a4cbe62c80e487d9bc71099b2777c65395b"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[casacorecxx]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "47d7c4e4344be8cf06963ce1e54c978e4000217e"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "1abdb3a19800fcb503c0960148aa7b9bd873cf2f849efe4a8aaacd4d5f8ee294"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[casacorecxx]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6c6b8a69c287953a3f950e8daed82e658a59b325"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "6300edea6bddf5d03b4ee6cdee960df129eb5a71203f3fb1ae398785a91ff548"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[casacorecxx]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -283,18 +389,18 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "d68b9e561e8797ccc3afa8cd9091b98273d83ecc79f7d8c65a3f43a492c5e709"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "i686"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "8304d6f7818cae277a65fa4a941c9c8a993b503f"
-julia_version = "1.8.0"
+julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "3bf9baa48884e8f995094ca897841526ef36623c688ca9f90fc360e3e966f1b8"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -305,7 +411,7 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "023e493660ab18f3d43183b54f13e6111c533d4a0397d9468be8231b0f29c950"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[casacorecxx]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -316,7 +422,29 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "ca339aa18ade111f04ce86179b44658303106d5bfac84a1aeea84c1fb1bec738"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[casacorecxx]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1815d8825aa16d5a5497fd5599ec8758b5e7eb8a"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "6ee55ba86f5569c958dfc6d7387aaaf814c33f520ae018ea077ab57d8bbd01b3"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[casacorecxx]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f55bc4acab58f0f95335fad818cf540ad6884085"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "30ee99ced7bbaaf11c1f8b9e848b0870ac741d567ee7c4892968f5a257ea8c55"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[casacorecxx]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -327,18 +455,18 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "92adc9249c2d05736e12e8f482fd134d4aba805732808d11664958da49ad04fa"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
 git-tree-sha1 = "9ec185c03e6ae5d69a30d6d202d4982c55b8339d"
-julia_version = "1.8.0"
+julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "6feecb08eb17951d42b2a300d86d46fd1065113e8e7b90751728274f68b1e202"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -349,7 +477,7 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "b3232b0f7a8f2fb07cfb498f240ee310d195a89ad32267255a51bc1666a36549"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[casacorecxx]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -360,7 +488,29 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "1a6438bc177fe70adc18dc747226d3062336192f4911d64b2ba22dba77f8932f"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[casacorecxx]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b2eb7066982a04744501fb40ee9a9d63af766c42"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "4912e1dc22b9dc7f6e072bd98132607e545fdb790e347215ca90f2c9f15b78d3"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[casacorecxx]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8d71811ec39bac6c224c04ff3e3de2a6b8f82782"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "db1722233a6b6875520ba1648d64264877791654699c54b345ffafe2bb91dfe0"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[casacorecxx]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -371,18 +521,18 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "6f07160ccff73b2af50800d2ef671d6a4739d1096750cf30095f017a7d632cdb"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "34dcde2d96bd77a8d03bedd3629cbb26ad59b7a5"
-julia_version = "1.8.0"
+julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "a5762f322a3dd614508a6894ef62448887a17f5531a5a053c77bef5f39ed98ad"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -393,43 +543,61 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "ecb5f1941e9eda8531457937e82a58b5643284b72c547b5844d7bc3ca0beb2b9"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[casacorecxx]]
 arch = "x86_64"
-git-tree-sha1 = "3236ddcb3989f0bc9a9919e1c03edab4e650f3e2"
+git-tree-sha1 = "6659f9d1259c3da9bae65a74e95661a8d75d30fc"
 julia_version = "1.10.0"
 os = "macos"
 
     [[casacorecxx.download]]
-    sha256 = "2ca6e9abca1dbe3035b84a44ad855119540607647bc3efa5a4bdfcd9f9fed14e"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "ee2489409160f68e6ddaeb5b952cb9d98b3b99fdc07441bcfdcff54fbc69d3be"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[casacorecxx]]
 arch = "x86_64"
-git-tree-sha1 = "c01eeb59afae9c050e99030a9b147bfa73b146c7"
+git-tree-sha1 = "2651058140f3f77a4ac2ee9e78eb09ceac011114"
+julia_version = "1.11.0"
+os = "macos"
+
+    [[casacorecxx.download]]
+    sha256 = "9193dcccf807b8718707859e98e05d871c0f5772f0dfeba51a2cec45cb13796e"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-apple-darwin-julia_version+1.11.0.tar.gz"
+[[casacorecxx]]
+arch = "x86_64"
+git-tree-sha1 = "86c2efcad9fa06223ea7f672fc532a5fbe1ae0b2"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[casacorecxx.download]]
+    sha256 = "ca73080d666985c26ac7895668c9d909762be7f03686521a292a5d08ec68813e"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[casacorecxx]]
+arch = "x86_64"
+git-tree-sha1 = "837aff633f01f1d4ca2839e18034686b3b0caa10"
 julia_version = "1.7.0"
 os = "macos"
 
     [[casacorecxx.download]]
-    sha256 = "c399616e90321cdd2d2f2af3e263aed049bbe47163679e8db0f51c94b52c0db0"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "0aaba679b77de93acd92d37a71719c6e71893c202172e49891b62aa4949a2964"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "x86_64"
-git-tree-sha1 = "e3b79f9ce5c342c3f34e77b60148b91d4ccae091"
-julia_version = "1.8.0"
+git-tree-sha1 = "6874334313062f557d7d0607e5996e71b4661117"
+julia_version = "1.8.2"
 os = "macos"
 
     [[casacorecxx.download]]
-    sha256 = "2b2df65b2021292e840ee35b66f23f12326f2a97cdf7ac02b675238a304c0b0d"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
+    sha256 = "9dae143bad5a4751b16fb978881b87344dce50cd55a2007f323e1334c2cf055b"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-apple-darwin-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "x86_64"
-git-tree-sha1 = "7a0f8914ff9bec084f91aaac1ce796978fc5bdde"
+git-tree-sha1 = "f1ae867af12e7fe4bfd189e6acf7de88d3c188b4"
 julia_version = "1.9.0"
 os = "macos"
 
     [[casacorecxx.download]]
-    sha256 = "5fb1d1c2a2c2f4b700db367e2d82ceb6eaa1eaf3edc0bd94416a4e5e766e82cb"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "df5520560aff4952da6036f0d2a41bf00dc6f0181f01fff6921ad3e1a5c9764a"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[casacorecxx]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -440,7 +608,29 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "e43c1bc00487ae64226771764d4e7d04d80fb5f7e768dd20b364216a17c65c57"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+[[casacorecxx]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "09dbd6b250f4c17131f175f6b76b409973ce8ae3"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "7ff2cb282def0c1ddbdbfe8c3bb7cb8df6370bb5fe01d6402a27309ffe07f805"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.11.0.tar.gz"
+[[casacorecxx]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9942004305dbee6ce44f58f0588df5b054b0f91b"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "dc268e20384d185d94cce87e949b0109d093f64cda009731b1f25218e4be43fa"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
 [[casacorecxx]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -451,18 +641,18 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "57c4f64b404309c6374d00990cbb8ea1a63a11de9a3e0bd8c93670e5b1127a8f"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
 git-tree-sha1 = "312d63b7d0b28387207d97f59c90f5f1ac843a0f"
-julia_version = "1.8.0"
+julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "772a420cd8a29ef9bf3498f8ae5d2776c562a0229e81e9976e09028e4e247b67"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -473,7 +663,7 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "2ba0b7b1dff41dc9e5fdbfade443b52f520434c33c2c3579d7ea802e864cc15e"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[casacorecxx]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -484,7 +674,29 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "0dce4c5eaedf45b6513f3e23e44e25c28bd408b5a63ab7dd2826e20d595fd2cd"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[casacorecxx]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "60c0ce282d0a1526ecaf088da6e166be05c9a951"
+julia_version = "1.11.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "4625a37c632d8056b6c48bfb6c7a8de0155769ff5357aeaec29807a441918684"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.11.0.tar.gz"
+[[casacorecxx]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "654de35df942ac4770f343a9d386b1bffdd865c4"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[casacorecxx.download]]
+    sha256 = "e4ee18e9af9afd05fbd60021b718a111d12899fa57c2136717af06bf244a496c"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
 [[casacorecxx]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -495,18 +707,18 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "1552dd047cf395b18a5a0bbf41747aec430bd335520a9961896890f1fc0ba0f8"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[casacorecxx]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
 git-tree-sha1 = "20ce3ff857197d83869d8540ff601e31bf463b7b"
-julia_version = "1.8.0"
+julia_version = "1.8.2"
 libc = "glibc"
 os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "0d104f2e974d404dcd8a5b25e7a9fce113b941a37868bfa4513ac23bf8d81269"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.8.2.tar.gz"
 [[casacorecxx]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -517,4 +729,4 @@ os = "linux"
 
     [[casacorecxx.download]]
     sha256 = "9451c9cf566f29765b3661dd6e6a3bf63a6b6b3ad15629a81b556330de7dab20"
-    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+0/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/casacorecxx_jll.jl/releases/download/casacorecxx-v0.3.0+1/casacorecxx.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
